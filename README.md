@@ -10,7 +10,6 @@ A production-ready NLP system that classifies emotions in Tamil poetry and maps 
 
 - **🧠 Deep Learning NLP**: Fine-tuned IndicBERT model for Tamil text understanding
 - **🎨 Navarasa Mapping**: Automatic mapping to 10 classical Indian emotional categories
-- **📊 Beautiful Dashboard**: Interactive Streamlit UI with modern visualizations
 - **🔍 Explainability**: Token-level attention heatmaps showing model reasoning
 - **🚀 REST API**: FastAPI backend for easy integration
 - **📈 Comprehensive Metrics**: Accuracy, precision, recall, F1-score, confusion matrix
@@ -433,4 +432,5 @@ This project is designed to be:
 ---
 
 **Built for the future of Indian NLP! 🚀**
+
 
